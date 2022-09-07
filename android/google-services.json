@@ -1,0 +1,40 @@
+
+{
+"project_info": {
+"project_number": "395758684225",
+"project_id": "myapp-5dcda",
+"storage_bucket": "myapp-5dcda.appspot.com"
+},
+"client": [
+{
+"client_info": {
+"mobilesdk_app_id": "1:395758684225:android:ed2af2384cfa8844a35ec0",
+"android_client_info": {
+"package_name": "com.puneet.myapp"
+}
+},
+"oauth_client": [
+{
+"client_id": "395758684225-ap9ego0afvmt5d07onlpf2281k3v5bgt.apps.googleusercontent.com",
+"client_type": 3
+}
+],
+"api_key": [
+{
+"current_key": "AIzaSyA4X6EbBr_Bc4XYRGsN6J1al-QJLPJ5h1Y"
+}
+],
+"services": {
+"appinvite_service": {
+"other_platform_oauth_client": [
+{
+"client_id": "395758684225-ap9ego0afvmt5d07onlpf2281k3v5bgt.apps.googleusercontent.com",
+"client_type": 3
+}
+]
+}
+}
+}
+],
+"configuration_version": "1"
+}
